@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 📫 How to reach me **mburhanqa@gmail.com** +92-32764866366
-- 
+- 📫 How to reach me **mburhanqa@gmail.com** 
+-     +92-32764866366
 
 - ⚡ Fun fact **I love Coding**
 
