@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **mburhanqa@gmail.com** 
-- **+92/-3091916170**
+- **+92-3091916170**
 
 - ⚡ Fun fact **I love Coding**
 
